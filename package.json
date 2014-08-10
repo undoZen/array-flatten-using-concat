@@ -1,9 +1,11 @@
 {
   "name": "array-flatten-using-concat",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "array flatten using Array.prototype.concat",
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "mocha"
   },
