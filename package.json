@@ -1,0 +1,27 @@
+{
+  "name": "array-flatten-using-concat",
+  "version": "0.0.0",
+  "description": "array flatten using Array.prototype.concat",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/array-flatten-using-concat.git"
+  },
+  "keywords": [
+    "array",
+    "flatten"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/array-flatten-using-concat/issues"
+  },
+  "homepage": "https://github.com/undoZen/array-flatten-using-concat",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
